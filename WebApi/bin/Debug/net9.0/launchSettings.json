@@ -1,0 +1,16 @@
+﻿{
+  "profiles": {
+    "IIS Express": {
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5082"
+    },
+    "ProjectName": {
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5082"
+    }
+  }
+}

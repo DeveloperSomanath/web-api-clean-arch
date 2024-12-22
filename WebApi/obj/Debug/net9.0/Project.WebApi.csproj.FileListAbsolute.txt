@@ -1,0 +1,7 @@
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Clean\CleanArch\WebApi\obj\Debug\net9.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
